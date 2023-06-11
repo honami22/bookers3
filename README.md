@@ -11,7 +11,6 @@ ruby on railsを用いたWebアプリケーションです
 [bookers]読んだ本の感想を投稿するサイトです
 
 
-
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
